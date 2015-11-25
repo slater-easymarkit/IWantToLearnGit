@@ -12,7 +12,8 @@ and open the template in the editor.
     <body>
         <?php
         echo "we should put something here";
-        echo "we fix another bug"
+        echo "we fix another bug";
+        echo "we fixed another bug, but now on Github!";
         ?>
     </body>
 </html>
