@@ -14,6 +14,7 @@ and open the template in the editor.
         echo "we should put something here";
         echo "we fix another bug";
         echo "we fixed another bug, but now on Github!!!!!";
+        echo " blah";
         ?>
     </body>
 </html>
