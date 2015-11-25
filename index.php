@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         echo "we should put something here";
+        echo "we fix another bug"
         ?>
     </body>
 </html>
